@@ -1,7 +1,6 @@
 # BalaSundar K - Mobile application developer
 
-A new Flutter project.
-
+A Interview Task from Thiran technology
 ## Getting Started
 
 This project is a starting point for a Flutter application.
